@@ -27,6 +27,7 @@ nav {
 
 .title {
   font-size: 1.5em;
+  font-weight: bold;
 }
 
 ul {
