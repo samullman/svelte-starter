@@ -1,12 +1,5 @@
-<script>
-import Layout from "../components/layout.svelte";
-</script>
-
-
 <svelte:head>
-	<title>Home</title>
+	<title>Index</title>
 </svelte:head>
 
-<Layout>
-Index Page
-</Layout>
+<h1>Index Page</h1>
