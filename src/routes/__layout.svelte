@@ -6,7 +6,7 @@
 <Header />
 
 <main>
-	<div class="inner">
+	<div>
 		<slot />
 	</div>
 </main>
